@@ -5,8 +5,4 @@
 
 Take a look at **it!**
 
-<a hrfe"https://bumboobee.github.io/IphonePage/"><img>![Captura de Tela (204)](https://user-images.githubusercontent.com/94147847/150436272-16ac0109-585b-4c17-95cb-1e5b03473d87.png)</img> </a>
-
-
-
-
+<a href="https://bumboobee.github.io/IphonePage/"><img src="![Captura de Tela (204)](https://user-images.githubusercontent.com/94147847/150436272-16ac0109-585b-4c17-95cb-1e5b03473d87.png)"></a>
