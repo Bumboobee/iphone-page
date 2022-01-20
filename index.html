@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Poppins:wght@300&family=Roboto+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <title>Iphone 13 PreSale</title>
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+            <a href="https://www.apple.com/eg/"><i class="fab fa-apple"></i></a>
+            <nav>
+                <ul id="menuList">
+                    <li><a href="https://www.apple.com/eg/mac/">Mac</a></li>
+                    <li><a href="https://www.apple.com/eg/ipad/">Ipad</a></li>
+                    <li><a href="https://www.apple.com/eg/iphone/">Iphone</a></li>
+                    <li><a href="https://www.apple.com/eg/watch/">Watch</a></li>
+                    <li><a href="https://www.apple.com/eg/airpods/">AirPods</a></li>
+                </ul>
+            </nav>
+            <i class="fas fa-bars" onclick="togglemenu()"></i>
+        </div>
+
+        <div class="row">
+            <div class="col-1">
+                <h2>Iphone 13 Pro <br>It's all Pro.</h2>
+                <h3>Cameras have never seen so much technology.</h3>
+                <p>In up to 12 installments or save 10% on cash payments.</p>
+                <h4>US$ 1.099</h4>
+                <a href="https://www.apple.com/eg/buy/"><button type="button">Buy Now</button></a>
+            </div>
+            <div class="col-2">
+                <img src="/images/iphone13.png" class="controller">
+                <div class="color-box"></div>
+                <div class="add-btn">
+                    <i class="fas fa-plus-circle"></i>   
+                    <p><small>Add to Cart</small></p>
+                </div>
+            </div> 
+            <br> 
+        </div>
+        <div class="colors">
+            <h3>It's about <strong>Power</strong> we stay hungry we <strong>develop</strong></h3>
+                <div class="color">
+                       <h3>New <strong>Colors</strong>, infinite <strong>Possibilities</strong> </h3> 
+                </div>                
+                <img src="/images/IphonesColors.png">  
+        </div>
+
+        <div class="social-links">
+            <a href="https://github.com/Bumboobee"><i class="fab fa-github"></i></a></i>
+            <a href="https://www.linkedin.com/in/jos%C3%A9-aparecido-bee"><i class="fab fa-linkedin-in"></i></a></i>
+            <a href="https://www.instagram.com/silva.j0se/"><i class="fab fa-instagram"></i></a></i>  
+            <a href="https://codepen.io/bumboobee"><i class="fab fa-codepen"></i></a></i> 
+        </div>
+    </div>  
+    
+    <script>
+        var menuList = document.getElementById("menuList");
+
+        menuList.style.maxHeight = "0px";
+
+        function togglemenu(){
+            if(menuList.style.maxHeight == "0px")
+                {
+                    menuList.style.maxHeight = "130px";    
+                }
+            else
+                {
+                    menuList.style.maxHeight = "0px";       
+                }    
+        }
+    </script>
+</body>
+</html>
