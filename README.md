@@ -4,7 +4,7 @@
 **This** is a **Home page** where you can see the brand new **Iphone 13.**
 <br />
 
-Only use **HTML** and **CSS**
+Only used **HTML** and **CSS**
 <br />
 
 # **Go to the Website** 🐋
