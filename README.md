@@ -1,16 +1,17 @@
-# **Iphone 13** Presale Website 📱
+# **Iphone 13** Presale 📱
 
+**This** is a **Home page** where you can see the brand new **[Iphone 13](https://www.apple.com/)**.
 
-**This** is a **Home page** where you can see the brand new **Iphone 13.**
-<br />
-
-Only used **HTML** and **CSS**
-<br />
+Only used **HTML** and **CSS** 🥰
 
 ## **Go to the Website** 🐋
 
 Click **[➡here⬅](https://bumboobee.github.io/IphonePage/)** to see the project.
-<br />
 
-[![Captura de Tela (204)](https://user-images.githubusercontent.com/94147847/150436272-16ac0109-585b-4c17-95cb-1e5b03473d87.png)](https://bumboobee.github.io/IphonePage/)
+<div align="center">
 
+[![giphy](https://user-images.githubusercontent.com/94147847/156360001-3682b0a7-a7d0-4c93-99d1-fb680b11793c.gif)](https://bumboobee.github.io/IphonePage/)
+
+> Your time is limited, so don't waste it living someone else's life.
+>> **Steve Paul Jobs**  
+<div/>
