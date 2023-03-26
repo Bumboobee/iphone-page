@@ -21,12 +21,12 @@
     width: 50px;
     cursor: pointer;
     margin: 20px 0;
-    color: #CDCDCD;
+    color: #CDCDCD;    
+    transition: 0.2s;
 }
 .fa-apple:hover{
     color: #BACFE4;
-    transform: scale(1.09);
-    transition: 0.2s;
+    transform: scale(1.02);
 }
 .fa-bars{
     width: 25px;
@@ -43,18 +43,19 @@ nav ul li{
     list-style: none;
     display: inline-block;
     margin-right: 30px;
+    
+    transition: .2s;
 }
 nav ul li a{
     text-decoration: none;
     color: #CDCDCD;
     font-size: 14px;
 }
-nav ul li a:hover{
-    color: #2a1bfa;
+nav ul li:hover{
+    color: #2a1bfa;    
 }
 nav ul li:hover{
-    transform: scale(1.1);
-    transition: 0.3s ease-in;
+    transform: scale(1.05);
 }
 .row{
     display: flex;
@@ -99,14 +100,12 @@ button{
     background: linear-gradient(to right, #147CE5, #0e4e8f);
     border-radius: 6px;
     cursor: pointer;
-    transition: 0.2s;
+    transition: 0.2s ease;
 }
 button:hover{
-    font-size: 0.9rem;
     align-items: center;
     justify-content: space-between;
-    transform: scale(1.2);
-    transition: 0.4s ease;
+    transform: scale(1.08);
     color: #B7DFEB;
 }
 .col-1::after{
@@ -147,11 +146,11 @@ img{
     width: 35px;
     margin-bottom: 5px;
 }
-.add-btn:hover{
+/* .add-btn:hover{
     transform: scale(1.1);
     transition: 0.4s;
     color: #B7DFEB;
-}
+} */
 .add-btn{
     text-align: center;
     color: #fff;
@@ -176,12 +175,12 @@ img{
     height: 13px;
     margin: 20px;
     cursor: pointer; 
-    color: #000;   
+    color: #000;     
+    transition: 0.2s;  
 }
-.social-links i:hover{
+.social-links :hover{
     color: #2a1bfa;
-    transform: scale(1.3);
-    transition: 0.2s ease;
+    transform: scale(1.1);
 }
 .social-links{
     text-align: center;
